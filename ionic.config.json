@@ -1,0 +1,8 @@
+{
+  "name": "daht",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
